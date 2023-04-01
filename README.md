@@ -6,6 +6,9 @@ This challenge was created so that we could see how a onm-the-job-ticket would l
 ## Installation
 N/A
 
+## Screenshot
+https://github.com/marvinblunck/Refactoring-Code-/blob/main/assets/images/screencapture-127-0-0-1-5500-index-html-2023-03-30-21_01_32.png
+
 ## Usage
 Access the site with this URL: https://marvinblunck.github.io/Refactoring-Code-/
 
